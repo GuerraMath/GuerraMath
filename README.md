@@ -11,7 +11,7 @@ Unindo o rigor da aviação civil à precisão do desenvolvimento de software. E
 - **Linguagens & Frameworks:** Java, Spring Boot (Data, Security, MVC)
 - **Banco de Dados:** PostgreSQL
 - **Ferramentas de Desenvolvimento:** Git, GitHub, Insomnia, Maven
-- **Experiência Corporativa:** Troubleshooting técnico, Gestão de infraestrutura de TI, Suporte nível 3 (ex-Microsoft Vendor).
+- **Experiência Corporativa:** Troubleshooting técnico, Gestão de infraestrutura de TI, Suporte nível 3 (ex-Microsoft).
 
 ---
 
