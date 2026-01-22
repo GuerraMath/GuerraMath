@@ -25,11 +25,17 @@ Unindo o rigor da aviação civil à precisão do desenvolvimento de software. E
 
 ## 📈 Projetos em Destaque
 
-### [Aviation Hazard Reporting API](link-para-o-repositorio)
-Uma API REST desenvolvida em **Java e Spring Boot** para gestão de reportes de perigo. 
-- Implementação de Matriz de Risco (Probabilidade x Severidade).
-- Persistência de dados com **PostgreSQL**.
-- Validações baseadas no DOC 9859 da ICAO.
+### 🛡️[safety-checklist-app](https://guerramath.github.io/safety-checklist-app/)
+
+Tooling para Segurança Operacional e Gestão de Risco
+
+Interface e API REST que traduzem conceitos de Consciência Situacional e fatores humanos em ferramentas práticas de mitigação de risco.
+
+Diferencial: Algoritmos de validação pautados em normas internacionais da aviação civil (ICAO).
+
+Funcionalidades: Gestão de reportes, cálculo automático de Matriz de Risco e persistência robusta.
+
+Tecnologias: Java, Spring Boot, PostgreSQL, Docker.
 
 ---
 
