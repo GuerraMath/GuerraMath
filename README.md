@@ -1,6 +1,6 @@
 # Olá, me chamo Matheus Guerra 👨‍✈️💻
 
-### Mestre em Segurança de Voo (ITA) | Piloto Comercial | Full Stack Dev
+### Mestre em Engenharia (ITA) | Piloto Comercial | Full Stack Dev
 
 Unindo o rigor da aviação civil à precisão do desenvolvimento de software. Especialista em **SGSO (SMS)** e **Gestão de Crises**, focado em construir soluções tecnológicas que tornam operações complexas mais seguras e eficientes.
 
