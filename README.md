@@ -9,7 +9,7 @@ Unindo o rigor da aviação civil à precisão do desenvolvimento de software. E
 ## 🛠️ Tecnologias e Ferramentas
 
 - **Linguagens & Frameworks:** Java, Spring Boot (Data, Security, MVC)
-- **Banco de Dados:** PostgreSQL
+- **Banco de Dados:** PostgreSQL, Firebase
 - **Ferramentas de Desenvolvimento:** Git, GitHub, Insomnia, Maven
 - **Experiência Corporativa:** Troubleshooting técnico, Gestão de infraestrutura de TI, Suporte nível 3 (ex-Microsoft).
 
